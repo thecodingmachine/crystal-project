@@ -1,22 +1,32 @@
-Silk icon set 1.3
++++++++++++++++++ 
+This copyright and license notice covers the images in this directory +++++++++++++++++
+************************************************************************
 
-_________________________________________
-Mark James
-http://www.famfamfam.com/lab/icons/silk/
-_________________________________________
 
-This work is licensed under a
-Creative Commons Attribution 2.5 License.
-[ http://creativecommons.org/licenses/by/2.5/ ]
 
-This means you may use it for any purpose,
-and make any changes you like.
-All I ask is that you include a link back
-to this page in your credits.
+TITLE:	Crystal Project Icons
 
-Are you using this icon set? Send me an email
-(including a link or picture if available) to
-mjames@gmail.com
+AUTHOR:	Everaldo Coelho
 
-Any other questions about this icon set please
-contact mjames@gmail.com
+SITE:	http://www.everaldo.com
+
+CONTACT: everaldo@everaldo.com
+
+LICENSE: LGPL
+
+
+Staff:
+
+
+Ingolfur Haraldsson (ingo@linpire.com)
+
+Luiz Claudio dos Santos (luiz@yellowicon.com)
+
+Rhandros Dembicki (rhandros@yellowicon.com)
+
+Paulo andre (paulo@yellowicon.com)
+
+Edson Farias (edson@yellowicon.com)
+
+Andre Souza (andre@yellowicon.com)
+

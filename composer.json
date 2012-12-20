@@ -4,7 +4,7 @@
     "keywords": ["icons", "crystalproject"],
     "homepage": "http://www.everaldo.com/",
     "type": "library",
-    "license": "Creative Commons Attribution 2.5 License",
+    "license": "LGPL",
     "authors": [
         {
             "name": "Everaldo Coelho",
